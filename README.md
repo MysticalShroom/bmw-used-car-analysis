@@ -19,10 +19,17 @@ A beginner Python data analysis project exploring a BMW used car dataset using P
 ## Dataset
 BMW used car listings.
 
+## Visualization
+
+![Top 5 BMW Models](top5_average_price.png)
+
 ## How to run
 
 1. Clone the repository
 2. Install the required libraries:
+
+```bash
 pip install pandas matplotlib
+```
 
 3. Open 'notebook.ipynb' in Jupyter Notebook or VS Code.
